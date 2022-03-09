@@ -13,5 +13,6 @@ public class A{
             }
         }
         System.out.println(Arrays.toString(arr));
+		System.out.println(Arrays.toString(arr));
     }
 }
